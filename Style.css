@@ -1,0 +1,428 @@
+
+
+html {
+    font-family:Public Sans;
+}
+
+.navigationbar {
+    background-color:#8CB29D;
+    vertical-align: baseline;
+    display: inline-block;
+    width: 100%;
+  
+}
+
+li {
+    display: inline;
+    float: right;
+    padding: 10px;
+    font-family: Kobe;
+    font-size: 20px;
+}
+
+.Contactme:hover {
+    color: #F3F1E0;
+}
+.UInav:hover {
+    color: #F3F1E0
+}
+.CaseStudy:hover {
+    color: #F3F1E0
+}
+.home:hover {
+    color: #F3F1E0
+}
+.container1 {
+    position: relative;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.ANEtitle {
+    position: absolute;
+    top: 80px;
+    left: 50px ;
+    color: white;
+    font-size: 45px;
+    width: 500px;
+    word-wrap: break-word;
+    font-weight: lighter;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.projsum {
+    position: absolute;
+    top: 275px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.Uresearch {
+    position: absolute;
+    top: 325px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.analysis {
+    position: absolute;
+    top: 375px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.Uexperience {
+    position: absolute;
+    top: 425px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.LandF {
+    position: absolute;
+    top: 475px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.Feedback {
+    position: absolute;
+    top: 525px;
+    left: 60px ;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.problem {
+    position: relative;
+    left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.problemtext {
+    position: relative;
+    left: 320px;
+    width: 1100px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.solution {
+    position: relative;
+    left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.solutiontext {
+    position: relative;
+    left: 320px;
+    width: 1100px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.line1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+}
+.container3 {
+    display: grid;
+}
+.roles {
+    padding: 25px;
+}
+.who {
+   text-align: center;
+   padding-top: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.userblurb {
+    position: absolute;
+    top: 2500px;
+    left: 200px;
+    width: 500px;
+    word-wrap: break-word;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.userquote1 {
+    position: absolute;
+    top: 2700px;
+    left: 200px;
+    width: 200px;
+    word-wrap: break-word;
+    text-align: center;
+    color: #F4F2E0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.userquote2 {
+    position: absolute;
+    top: 2700px;
+    left: 458px;
+    width: 250px;
+    word-wrap: break-word;
+    text-align: center;
+    color: #F4F2E0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.intsurv {
+    position: relative;
+    left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 25px;
+}
+.surveytext1 {
+    position: relative;
+    left: 205px;
+    width: 1200px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 15px;
+}
+.surveytext2 {
+    position: relative;
+    left: 205px;
+    width: 1200px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 7px;
+}
+.surveytext3 {
+    position: relative;
+    left: 220px;
+    width: 1200px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 7px;
+}
+.surveytext4 {
+    position: relative;
+    left: 220px;
+    width: 1200px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 7px;
+}
+.surveytext5 {
+    position: relative;
+    left: 220px;
+    width: 1200px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 25px;
+}
+.currentsite {
+    padding-top: 35px;
+}
+.container7 {
+    align-items: center;
+}
+.container7 {
+    padding-bottom: 25px;
+}
+.wireframetitle {
+    position: relative;
+    top: -570px;
+    left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.wireframeblurb1 {
+    position: relative;
+    top: -550px;
+    left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.wireframeblurb2 {
+    position: relative;
+    top: -525px;
+    left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.wireframeblurb3 {
+    position: relative;
+    top: -500px;
+    left: 1100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.wireframeimg {
+    padding-left: 60px;
+}
+.container10 {
+    padding-right: 50px;
+}
+.styletile {
+   position: relative;
+   top: -600px;
+   left: 250px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   padding-bottom: 7px;
+}
+.stblurb1 {
+    position: relative;
+    top: -575px;
+    left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.stblurb2 {
+    position: relative;
+    top: -550px;
+    left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.stblurb3 {
+    position: relative;
+    top: -525px;
+    left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.HDtitle {
+    position: relative;
+    top: -1000px;
+    left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-bottom: 7px;
+ }
+ .HDblurb1 {
+     position: relative;
+     top: -950px;
+     left: 1000px;
+     font-family: Arial, Helvetica, sans-serif;
+     width: 500px;
+     word-wrap: break-word;
+     padding-bottom: 7px;
+ }
+ .HDblurb2 {
+    position: relative;
+    top: -925px;
+    left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    word-wrap: break-word;
+    padding-bottom: 7px;
+}
+.webpage {
+    position: relative;
+    left: 350px;
+    top: 75px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+.mobile {
+    position: relative;
+    left: 1300px;
+    top: 35px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.webimg {
+    position: relative;
+    padding-top: 50px;
+}
+.mobileimg {
+    position: relative;
+    left: 1000px;
+    top: 20px;
+}
+.col-sm-2{
+    top: 120px;
+    left: 20px;
+}
+.col-sm-8{
+    top: 70px;
+}
+.container13 {
+    padding-top: 250px;
+    align-items: center;
+}
+.nextblurb1 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    left: 400px;
+    word-wrap: break-word;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    text-align: center;
+
+}
+
+.nextblurb2 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    word-wrap: break-word;
+    padding-bottom: 100px;
+    text-align: center;
+    left: 400px;
+}
+.userfeedback {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    top: -675px;
+    left: 1035px;
+    color: white;
+}
+.quoteblurb1 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    top: -625px;
+    left: 990px;
+    color: white;
+    width: 500px;
+    word-wrap: break-word;
+    text-align: center;
+}
+.quoteblurb2 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    top: -600px;
+    left: 990px;
+    color: white;
+    width: 500px;
+    word-wrap: break-word;
+    text-align: center;
+}
+.quoteblurb3 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    top: -575px;
+    left: 990px;
+    color: white;
+    width: 500px;
+    word-wrap: break-word;
+    text-align: center;
+}
